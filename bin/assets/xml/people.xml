@@ -1,0 +1,17 @@
+<data>
+	<person>
+		<name>Ian Benschop</name>
+		<position>Lead Developer</position>
+		<group>Digital</group>
+	</person>
+	<person>
+		<name>Mike Boateng</name>
+		<position>Project Manager</position>
+		<group>Production</group>
+	</person>
+	<person>
+		<name>Ben Pratt</name>
+		<position>Creative Developer</position>
+		<group>Digital</group>
+	</person>
+</data>
